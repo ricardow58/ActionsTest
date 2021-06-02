@@ -4,6 +4,8 @@ Repository used to show different GitHub Actions Features
 
 Also used in my [YouTube video](https://youtu.be/w_37LDOy4sI):
 
+Testing CI/CD
+
 ## Video
 
 If you want to see an in-depth explanation on the Actions Environments and Approvals, check my video on YouTube:
